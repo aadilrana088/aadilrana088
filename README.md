@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Aadil Rana
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently working on React and Nextjs.
 - 💞️ I’m looking to collaborate on Front end Development Work
 - 📫 You can contact me on my mobile number 9958358474.
 
