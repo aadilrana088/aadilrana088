@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohd Aadil Rana</h1>
-<h3 align="left">Experienced Front-End Developer with a demonstrated history of working in various industries. Skilled in ReactJS, NextJS, Bootstrap, Cascading Style Sheets (CSS), Java, and C (Programming Language), C++. Strong engineering professional with a Diploma in Computer Engineering focused on Front-end-Development from Jamia Millia Islamia.</h3>
-
+<h3 align="justify">Experienced Software Developer with a demonstrated history of working in various industries. Skilled in ReactJS, NextJS, Bootstrap, Cascading Style Sheets (CSS), Javascript,jQuery, MongoDB, MySQL. Strong engineering professional with a B.Tech in Computer Engineering focused on Full stack Development from Maharishi Dayanand University and Diploma in Computer Engineering from Jamia Milla Islamia. I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilrana088&label=Profile%20views&color=0e75b6&style=flat" alt="aadilrana088" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadilrana088" alt="aadilrana088" /></a> </p>
