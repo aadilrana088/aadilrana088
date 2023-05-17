@@ -16,7 +16,7 @@
 
 - 📫 **You can mail me on aadilranajmi@gmail.com or you can call me at 9958358474**
 
-- 📄 Know about my experiences by going through my resume: [https://drive.google.com/file/d/1QrYiTAN_tBgvcFOqaeGLPQPfOQ0BKrDv/view?usp=sharing](https://drive.google.com/file/d/1QrYiTAN_tBgvcFOqaeGLPQPfOQ0BKrDv/view?usp=sharing)
+- 📄 Know about my experiences by going through my resume: [[https://drive.google.com/file/d/1QrYiTAN_tBgvcFOqaeGLPQPfOQ0BKrDv/view?usp=sharing](https://docs.google.com/document/d/1pQaW_504SZsSq-ILPLogdqiHNNjuZagFosFtUtEkE64)]([https://drive.google.com/file/d/1QrYiTAN_tBgvcFOqaeGLPQPfOQ0BKrDv/view?usp=sharing](https://docs.google.com/document/d/1pQaW_504SZsSq-ILPLogdqiHNNjuZagFosFtUtEkE64))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
